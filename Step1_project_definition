@@ -1,0 +1,19 @@
+## 🧩 Step 1 – Define the Research Question
+
+### Central Question
+**Which watch characteristics significantly influence market price and long-term value retention?**
+
+To avoid confusion, the analysis explicitly separates two concepts:
+
+**Price** refers to what makes a watch expensive at a given point in time.  
+It reflects the current market valuation.
+
+**Value** refers to a watch’s ability to retain or increase its price over time.  
+It captures long-term stability or appreciation rather than short-term pricing.
+
+Based on this distinction, the project focuses on two target variables:
+
+- `price`: current market price  
+- `value_retention`: price variation over time (expressed as a ratio or percentage)
+
+This separation allows the analysis to distinguish price-driving factors from value-preserving factors.
